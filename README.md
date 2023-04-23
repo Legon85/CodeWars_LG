@@ -1,1 +1,1 @@
-# CodeWars_LG
+# This is my project about solution of CodeWars tasks
